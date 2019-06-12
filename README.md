@@ -2,7 +2,7 @@
 
 # 说明
 - 非官方实现
-- 感谢pppLang、ResearchingDexter大佬的实现
+- 感谢pppLang、ResearchingDexter大佬的工作
 
 
 
