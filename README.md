@@ -18,15 +18,15 @@
 
 # SK Conv
 
-![](https://github.com/bobo0810/S4ND_Pytorch/blob/master/imgs/skconv.jpg)
+![](https://github.com/bobo0810/SKNet_Pytorch/blob/master/imgs/skconv.jpg)
 
 # SK Block
 
-![](https://github.com/bobo0810/S4ND_Pytorch/blob/master/imgs/SKBlock.png)
+![](https://github.com/bobo0810/SKNet_Pytorch/blob/master/imgs/SKBlock.png)
 
 # SK Net
 
-![](https://github.com/bobo0810/S4ND_Pytorch/blob/master/imgs/sknet.png)
+![](https://github.com/bobo0810/SKNet_Pytorch/blob/master/imgs/sknet.png)
 
 
 ----------
