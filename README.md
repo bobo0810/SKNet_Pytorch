@@ -3,9 +3,7 @@
 # 说明
 - 非官方实现
 - 感谢pppLang、ResearchingDexter大佬的工作
-- 3D SEConv及3D SKConv正用于我的工作，之后开源
-
-
+- 更新3D SEConv及3D SKConv
 ----------
 
 # 环境
