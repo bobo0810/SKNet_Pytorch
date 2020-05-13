@@ -1,5 +1,5 @@
 # SKNet: Selective Kernel Networks
-
+#### 该仓库收录于[PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)
 # 说明
 - 非官方实现
 - 感谢pppLang、ResearchingDexter大佬的工作
